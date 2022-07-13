@@ -1,6 +1,7 @@
 # Curriculum
 # **Carlos Adrian Reyes Ruiz**
 
+
 ## **Información personal**
 
 + Fecha de nacimiento: 18 de abril 1976
@@ -15,16 +16,33 @@
 + Github: [carlos reyes](https://github.com/carlitoswayreyes)
 
 ### **Sobre mi**
-Nací en Cd. Juarez, chihuahua y tengo 46 años.
+Nací en Cd. Juarez, chihuahua y tengo 46 años, casado desde hace 20 años y padre de una niña.
 
-Soy estudiante de Ingeniero de Software por la Universidad por la UACH
+Soy estudiante de Ingeniería de Software por la Universidad Autonoma de Chihuahua
 
 ## **Formación académica**
   | Nombre                                                              | Centro de enseñanza                    | Año de inicio | Año de finalización |
 |---------------------------------------------------------------------|-----------------------------------------|---------------|------------|
-| Educación Primaria y Educación Secundaria Obligatoria, E.S.O | primaria Jaime Torres Bodet y EST ·33            | 1983          | 1990       |
-| Bachillerato COBACH 5                                                | bachilleres 5 | 1190          | 1994       |
-| Universidad autonoma de Chihuahua        | Ingenieria de Software      | 2017          | 2022     |
+| Educación Primaria y Educación Secundaria | Primaria Jaime Torres Bodet y EST No. 33            | 1983          | 1990       |
+| Bachillerato COBACH 5                                                | Bachilleres 5 | 1990          | 1994       |
+| Universidad Autonoma de Chihuahua        | Ingenieria de Software      | 2017          | 2022     |
+
+## **Experiencia profesional**
+
++ Representante medico para Laboratorio Italmex (2003-2010) Linea Task Force
++ Ejecutivo de Ventas American Express servicios financieros (1999-2003)
++ Ejecutivo de Ventas en Sam's Club memebership salesforce (1997-1999)
+
+
+## **Otra información**
+
+ - Aptitud para trabajar en equipo y realizar proyectos en forma complementaria
+ - Habilidades comunicativas y sociales
+ - Compromiso y responsabilidad con mis funciones
+ - Pro-activo
+ - Socialble
+ - Habilidad para crear soluciones prácticas
+ - Ganas de aprender
 
   
 
